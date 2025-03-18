@@ -11,7 +11,7 @@ This script is a simple yet powerful tool for downloading OTA firmware files for
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.comJustPandaEver/firmwaredl-realme.git
+   git clone https://github.com/JustPandaEver/firmwaredl-realme.git
    cd firmwaredl-realme
    ```
 
