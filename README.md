@@ -12,7 +12,7 @@ This script is a simple yet powerful tool for downloading OTA firmware files for
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.comJustPandaEver/firmwaredl-realme.git
-   cd ota-firmware-downloader
+   cd firmwaredl-realme
    ```
 
 2. Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
@@ -30,7 +30,7 @@ python dl.py <url>
 For example, to download a firmware file from a specific URL, you would run:
 
 ```bash
-python dl.py https://example.com/file.zip
+python dl.py http://gauss-componentotacostmanual-in.allawnofs.com/remove-e56cf731999231d8936d0551e249e30d/component-ota/25/01/02/6d8564d101c74c709f14f2bb4bc54e7b.zip
 ```
 
 ## Features
